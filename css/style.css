@@ -1,0 +1,38 @@
+*{
+/* box-sizing: border-box; */
+
+}
+
+body{
+    color: #441414;
+    margin:0;
+    font: 2em "helvetica";
+    text-align: center;
+}
+.main-header{
+/* background-color:rgba(0,139,139,20%); */
+background-image: url(../imgs/placeimg_1000_700_sepia_nature.jpg);
+height: 600px;
+padding:120px ;
+background-size:cover;
+background-position:center;
+color:#1096c7;
+background-repeat:no-repeat;
+
+}
+h1{
+   font: size 5.6rem;
+   color:rgba (255,255,255,55);
+}
+.arrow{
+    width:250px;
+}
+
+.res, .tips{
+
+    width:46%;
+}
+
+.tips{
+    float: right;
+}
