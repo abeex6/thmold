@@ -20,6 +20,12 @@ color:#1096c7;
 background-repeat:no-repeat;
 
 }
+.pimary-content{
+margin: 2em;
+padding:2em;
+
+}
+
 h1{
    font: size 5.6rem;
    color:rgba (255,255,255,55);
