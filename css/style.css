@@ -53,3 +53,9 @@ h1{
 
     float: left;
 }
+
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
