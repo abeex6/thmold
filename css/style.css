@@ -43,15 +43,15 @@ h1{
 .Wildlife{
     color: white;
     text-align: left;
-    padding: 18% 24%;
+    padding: 5% 2%;
     border-top: 10px solid #ffa949;
-    margin: 105px 0 60px;
-    background: #434a52 url('../imgs/ani400.jpg') no-repeat center;
+    margin: 10% 20% 60px;
+    background: #3f91f0 url('../imgs/ani400.jpg') no-repeat center;
       background-size: cover;
  
-   box-shadow:15px 15px 10px rgba(0,0,0, .8);
-
-
+   box-shadow:15px 15px 10px  rgba(53, 87, 79, 0.8);
+width: 700px;
+border-radius: 20% 3%;
 }
   
 
